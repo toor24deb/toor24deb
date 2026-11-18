@@ -1,4 +1,4 @@
-## Hi there 👋
+![toor24deb](logo.png)
 
 <a href="https://go.dev/">
 <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/refs/heads/main/badges/badges_golang.png" alt="Golang" align="left" width="64" data-canonical-src="Golang" style="max-width: 100%;">
